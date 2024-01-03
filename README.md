@@ -15,8 +15,8 @@ This course will provide students with fundamentals of complex network theory, t
 * Multilayer and temporal networks.
 
 ## RESPONSIBLE TEACHERS
-- Mikko Kivelä (mikko.kivela@aalto.fi)
-- Takayuki Hiraoka (takayuki.hiraoka@aalto.fi)
+- [Mikko Kivelä](http://www.mkivela.com)
+- [Takayuki Hiraoka](https://sites.google.com/view/takayukihiraoka/home)
 
 
 
